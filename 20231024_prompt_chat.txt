@@ -1,0 +1,1 @@
+nouveau code, Fait moi un code python pour créer une architecture de dossier windows basé sur la liste si dessous, tu respecteras l'indentation lue et tu rangera le résultat dans un dossier YYYYMMDD_HHMMSS_result

@@ -1,0 +1,59 @@
+PXI
+    Archive
+    Test benchs
+        01_test bench Pierre
+        02_test bench Paul
+        99_test bench Jacques
+            Hardware banc
+                Cartes interfaces
+                    01_carte interface Tom
+                    02_carte interface Dick
+                    99_Carte interface Harry
+                        Datasheet
+                        Dossier de fabrication
+                        Mecanique
+                        Nomenclature
+                        Photos
+                        Routage
+                        Schema electrique
+                        Tests et mesures CI
+                            Procedure
+                            Rapports de tests
+                Datasheet
+                Dossier de fabrication
+                Nomenclature
+                Mecanique
+                Photos
+                Plans harnais
+                    Interne baie
+                    01_projet Marie
+                    02_projet Jeanne
+                    99_projet Francoise
+                Synoptique general
+            Software banc
+                Configuration tools
+                01_projet Marie
+                    release
+                    docs
+                    external tools
+                    src
+                02_projet Jeanne
+                99_projet Francoise
+            Maintenance banc
+                Metrologie
+                    Rapport etalonnage
+                    Rapport de verification/calibration
+                Outils de test
+                Plan de maintenance
+            Essais
+                Procedures de test
+                Rapports de test
+                Revue qualite
+    Projects
+        01_Projet Marie
+        02_projet Jeanne 
+        99_projet Francoise
+            Specification
+            Plan de cablage [link]
+            Hardware [link]
+            Software [link]

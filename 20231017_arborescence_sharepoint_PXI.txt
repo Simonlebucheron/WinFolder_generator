@@ -1,0 +1,55 @@
+- PXI
+    - Archive
+    - Test benchs
+        - Test bench 01
+            - Hardware banc
+                - Cartes interfaces
+                    - Carte interface 01
+                        - Datasheet
+                        - Dossier de fabrication
+                        - Mecanique
+                        - Nomenclature
+                        - Photos
+                        - Routage
+                        - Schema electrique
+                        - Tests et mesures CI
+                            - Procedure
+                            - Rapports de tests
+                    - Carte interface 02
+                    - Carte interface nn
+                - Datasheet
+                - Dossier de fabrication
+                - Nomenclature
+                - Mecanique
+                - Photos
+                - Plans harnais
+                - Synoptique general
+            - Software banc
+                - Configuration tools
+                - Project 01
+                    - release
+                    - docs
+                    - external tools
+                    - src
+                - Project 02
+                - Project nn
+            - Maintenance banc
+                - Metrologie
+                    - Rapport etalonnage
+                    - Rapport de verification/calibration
+                - Outils de test
+                - Plan de maintenance
+            - Essais
+                - Procedures de test
+                - Rapports de test
+                - Revue qualite
+        - Test bench 02
+        - Test bench n
+    - Projects
+        - Projet 01
+            - Specification
+            - Plan de cablage [link]
+            - Hardware [link]
+            - Software [link]
+        - Projet 02 
+        - Projet nn
